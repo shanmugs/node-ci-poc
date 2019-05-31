@@ -1,5 +1,5 @@
 capture: node capture.js
-process: node process.js
-purge: node purge.js
+process: node worker.js
+purge: node worker.js
 job: node worker.js
 web: node index.js
